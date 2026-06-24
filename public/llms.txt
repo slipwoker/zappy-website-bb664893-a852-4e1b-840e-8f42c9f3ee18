@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://sunset-bar-bb664893.zappy5.app
+https://example.com
 בר הקוקטיילים 180 Sunset Bar מזמין אתכן לחוויה סוחפת של טעמים, אווירה ומוזיקה. גלי את התפריט היצירתי שלנו והזמיני מקום עכשיו לערב מושלם.
 
 ### ניסיון
-https://sunset-bar-bb664893.zappy5.app/experience
+https://example.com/experience
 צללי לעולם חושי של 180 Sunset Bar: קוקטיילים מולקולריים, עיצוב מהפנט וקצב מדבק. בואי לחיות את הסיפור שאנחנו מוזגים לכל כוס.
 
 ### אודות
-https://sunset-bar-bb664893.zappy5.app/about
+https://example.com/about
 מאחורי 180 Sunset Bar עומדת תשוקה לאירוח, אלכימיה של טעמים וסיפור שמתחיל ב-alma sunset bar and suites. גלי את החזון שמאחורי כל כוס.
 
 ### צור קשר
-https://sunset-bar-bb664893.zappy5.app/contact
+https://example.com/contact
 מוכנה להפוך את הערב לבלתי נשכח? צרי קשר עם 180 Sunset Bar להזמנת מקומות, אירועים פרטיים או כל שאלה. המקום שלך מחכה.
 
 ### תודה על פנייתך
-https://sunset-bar-bb664893.zappy5.app/thank-you
+https://example.com/thank-you
 Sunset Bar - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://sunset-bar-bb664893.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://sunset-bar-bb664893.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://sunset-bar-bb664893.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://sunset-bar-bb664893.zappy5.app/contact
-- Endpoint: https://sunset-bar-bb664893.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Bar & Nightlife
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://sunset-bar-bb664893.zappy5.app/sitemap.xml
-- Robots: https://sunset-bar-bb664893.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://sunset-bar-bb664893.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
