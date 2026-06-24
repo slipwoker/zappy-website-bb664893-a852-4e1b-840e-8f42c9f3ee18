@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://sunset-bar.zappy5.app
 בר הקוקטיילים 180 Sunset Bar מזמין אתכן לחוויה סוחפת של טעמים, אווירה ומוזיקה. גלי את התפריט היצירתי שלנו והזמיני מקום עכשיו לערב מושלם.
 
 ### ניסיון
-https://example.com/experience
+https://sunset-bar.zappy5.app/experience
 צללי לעולם חושי של 180 Sunset Bar: קוקטיילים מולקולריים, עיצוב מהפנט וקצב מדבק. בואי לחיות את הסיפור שאנחנו מוזגים לכל כוס.
 
 ### אודות
-https://example.com/about
+https://sunset-bar.zappy5.app/about
 מאחורי 180 Sunset Bar עומדת תשוקה לאירוח, אלכימיה של טעמים וסיפור שמתחיל ב-alma sunset bar and suites. גלי את החזון שמאחורי כל כוס.
 
 ### צור קשר
-https://example.com/contact
+https://sunset-bar.zappy5.app/contact
 מוכנה להפוך את הערב לבלתי נשכח? צרי קשר עם 180 Sunset Bar להזמנת מקומות, אירועים פרטיים או כל שאלה. המקום שלך מחכה.
 
 ### תודה על פנייתך
-https://example.com/thank-you
+https://sunset-bar.zappy5.app/thank-you
 Sunset Bar - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://sunset-bar.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://sunset-bar.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://sunset-bar.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://sunset-bar.zappy5.app/contact
+- Endpoint: https://sunset-bar.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Bar & Nightlife
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://sunset-bar.zappy5.app/sitemap.xml
+- Robots: https://sunset-bar.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://sunset-bar.zappy5.app/llms-full.txt
